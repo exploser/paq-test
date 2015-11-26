@@ -1,1 +1,8 @@
-{binname="paq-test.lua",version="0.1"}
+{
+  binname="paq-test.lua",
+  version="0.1",
+  dependencies=
+  {
+    
+  }
+}
