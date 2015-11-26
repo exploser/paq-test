@@ -1,0 +1,1 @@
+{binname="paq-test.lua",version="0.1"}
