@@ -1,1 +1,1 @@
-{files={["paq-test.lua"]="/usr/bin/paq.lua"},version="0.1",dependencies={{author="exploser",name="paq"}}}
+{files={["paq-test.lua"]="/usr/bin/paq-test.lua"},version="0.1",dependencies={{author="exploser",name="paq"}}}
