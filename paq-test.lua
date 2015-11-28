@@ -1,4 +1,4 @@
-io.write("Your paq is working fine! Type 'paq delete exploser paq-test' to remove this totally useless package\n")
+io.write("Your paq is working fine! Type 'paq delete paq-test' to remove this totally useless package\n")
 
 io.write("            __     __       \
            /  \\~~~/  \\    \
